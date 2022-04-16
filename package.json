@@ -1,0 +1,14 @@
+{
+  "name": "test_google_cloud_functions",
+  "version": "0.0.1",
+  "description": "Sample GEM using the functions_framework GEM so that we can build google cloud functions",
+  "scripts": {
+    "release": "semantic-release"
+  },
+  "devDependencies": {
+    "@klueless-js/semantic-release-rubygem": "github:klueless-js/semantic-release-rubygem",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^19.0.2"
+  }
+}
